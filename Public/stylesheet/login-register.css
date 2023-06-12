@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgba(180, 230, 247, 1);
+}
+
+#loginPage {
+    border: 2px solid black;
+    width: fit-content;
+}
+
+#loginPage > form {
+    padding: 10px;
+}
+
+#loginPage > form > input {
+    display: block;
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    border: none;
+}
+
+#loginPage > form > input:hover {
+    display: block;
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    border: none;
+    padding: 10px;
+}
+
+#registerPage {
+    border: 2px solid black;
+    width: fit-content;
+}
+
+#registerPage > form {
+    padding: 10px;
+}
+
+#registerPage > form > input {
+    display: block;
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    border: none;
+}
+
+#registerPage > form > input:hover {
+    display: block;
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    border: none;
+    padding: 10px;
+}
